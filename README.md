@@ -1,6 +1,6 @@
 # DevCamper API
 
-> Backend API for DevCamper application made with Node.js
+> Backend API for DevCamper application built with Node.js
 
 ## Usage
 
